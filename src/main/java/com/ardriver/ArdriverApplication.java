@@ -26,7 +26,13 @@ public class ArdriverApplication {
         FeedbackService feedbackService = context.getBean(FeedbackService.class);
         DriverService driverService = context.getBean(DriverService.class);
         PrintEntity printEntity = context.getBean(PrintEntity.class);
-
+        System.out.println("Good morning sonu");
+        System.out.println("Good morning royston");
+        System.out.println("Good morning pankaj");
+        System.out.println("Good morning");
+        System.out.println("ROM ROM Bhaiyo");
+        System.out.println("ROM ROM Bhaiyo");
+        System.out.println("ROM ROM Bhaiyo");
 
         // Customer ----------------------------------------------------------------------------------
         // save customer
